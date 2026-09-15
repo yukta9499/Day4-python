@@ -17,7 +17,15 @@
 #     print(i)
 #     i +=1
 
-i = 1
-while i < 11:
-    print(i*5)
-    i +=1
+# y =  1
+# while y < 11:
+#     print(y*5)
+#     y +=1
+
+i  = 0
+while i <10 :
+    if i ==5:
+        i+= 1
+        continue
+    print(i)
+    i+= 1
