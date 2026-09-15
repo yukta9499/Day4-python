@@ -22,10 +22,16 @@
 #     print(y*5)
 #     y +=1
 
-i  = 0
-while i <10 :
-    if i ==5:
-        i+= 1
-        continue
-    print(i)
-    i+= 1
+# i  = 0
+# while i <10 :
+#     if i ==5:
+#         i+= 1
+#         continue
+#     print(i)
+#     i+= 1
+
+#for loop
+l = [1,2,3,4,5]
+for n in l:
+    print(n)
+
